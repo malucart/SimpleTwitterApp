@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="TextName">#150A36</color>
+    <color name="colorRed">#E62925</color>
+    <color name="background">#FAFFFC</color>
+    <color name="textColor">#3D9AF0</color>
+    <color name="barColor">#3475BA</color>
+
+    <style name="CounterStyle" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>
+
